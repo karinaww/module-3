@@ -1,0 +1,112 @@
+body {
+    background-color: rgba(244, 214, 219, 0.597);
+}
+
+
+#a1 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#title {
+    font-size: 70px;
+    color: pink;
+    text-align: center;
+}
+
+
+#container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+#photo1 img {
+   border-radius: 10%;
+    width: 640px;
+    height: auto;
+   
+}
+
+h3 {
+    font-size: 60px;
+    color: pink;
+}
+
+ul {
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.593);
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.593);
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.container2 img {
+    border-radius: 10%;
+    width: 640px;
+    height: auto;
+    
+}
+
+.text {
+    font-size: 22px;
+   
+    color: rgba(0, 0, 0, 0.593);
+}
+
+.num2 {
+    font-size: 30px;
+    font-style: italic;
+    color: pink;
+}
+
+.num3 {
+    font-size: 30px;
+    font-style: italic;
+    color: pink;
+    text-align: right;
+    margin-right: 60px;
+}
+
+.number1 {
+    font-size: 25px;
+    font-style: normal;
+}
+
+#num8 {
+    font-size: 40px;
+    color: pink;
+    text-align: center;
+}
+
+.knopka {
+    padding: 20px 30px;
+    background-color: pink;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: fit-content;
+  }
+
+  #head1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    margin-left: 200px;
+  }
+
+  #ki {
+    width: 90%;
+  }
