@@ -10,7 +10,7 @@ body {
 
 #title {
     font-size: 70px;
-    color: pink;
+    color: rgb(248, 156, 172);
     text-align: center;
 }
 
@@ -31,7 +31,7 @@ body {
 
 h3 {
     font-size: 60px;
-    color: pink;
+    color: rgb(248, 156, 172);
 }
 
 ul {
@@ -68,13 +68,13 @@ p {
 .num2 {
     font-size: 30px;
     font-style: italic;
-    color: pink;
+    color: rgb(248, 156, 172);
 }
 
 .num3 {
     font-size: 30px;
     font-style: italic;
-    color: pink;
+    color: rgb(248, 156, 172);
     text-align: right;
     margin-right: 60px;
 }
@@ -86,13 +86,13 @@ p {
 
 #num8 {
     font-size: 40px;
-    color: pink;
+    color: rgb(248, 156, 172);
     text-align: center;
 }
 
 .knopka {
     padding: 20px 30px;
-    background-color: pink;
+    background-color: rgb(248, 156, 172);
     color: white;
     border-radius: 20px;
     text-align: center;
